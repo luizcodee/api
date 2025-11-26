@@ -30,3 +30,11 @@ INSERT INTO users (name, email, password) VALUES
 INSERT INTO products (name, price, description) VALUES 
 ('Produto A', 29.99, 'Descrição do produto A'),
 ('Produto B', 49.99, 'Descrição do produto B');
+
+
+--.env
+--PORT=3000
+--HOST=localhost
+--USER=root
+--PASSWORD=
+--DATABASE=api_database
